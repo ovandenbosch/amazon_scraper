@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+print("Hello)
 
 URL = "https://www.amazon.com/DJI-Mavic-Air-More-Combo/dp/B086XCGMN7/ref=sr_1_2?crid=3JBJAIYYZY0PP&dchild=1&keywords=dji+mavic+air+2+fly+more+combo&sprefix=dji+mavic+air%2Caps%2C289&sr=8-2"
 
